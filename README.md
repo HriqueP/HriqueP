@@ -1,9 +1,6 @@
-Hi there, eu sou Henrique Poletti 👋
-New around here!
+Hi there, I'm Henrique Poletti 👋
 
-- 🔭 Atualemte trabalhando em Aplicações Mobile, Sites Web
-- 🌱 Apredendo atualmente PHP, C#, Python
-- 📫 hapoletti@gmail.com
-
-
-- ⚡ Fun fact: Ornitorrincos são venenosos
+- 🔭 Currently working on Mobile Apps and Improving my JS Skills
+- 🌱 Currently learning PHP, C#, Python
+- 📫 My E-mail: hapoletti@gmail.com
+- ⚡ Fun fact: Platypuses are poisonous
