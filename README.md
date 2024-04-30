@@ -1,4 +1,4 @@
-Hi there, I'm Henrique Poletti 👋
+Hi there, I'm Henrique Poletti 👋   
 
 - 🔭 Currently working on Mobile Apps and Improving my JS Skills
 - 🌱 Currently learning PHP, C#, Python
