@@ -14,7 +14,7 @@ Hi there, I'm Henrique Poletti 👋
   </a>
 </div>
 
-##
+<br/>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30"/>
