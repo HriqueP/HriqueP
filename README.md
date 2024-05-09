@@ -1,22 +1,13 @@
-Hi there, I'm Henrique Poletti 👋  
+### Hi there, I'm Henrique Poletti 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HriqueP&show_icons=true&theme=tokyonight)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-poletti-0a089a213/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hrique_p)
 
-- 🔭 Currently working on Mobile Apps and Improving my JS Skills
-- 🌱 Currently learning PHP, C#, Python
-- 📩 E-mail: hapoletti@gmail.com
-- ⚡ Fun fact: Platypuses are poisonous
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HriqueP&show_icons=true&bg_color=020617&title_color=ffffff&text_color=94a3b8&icon_color=0284c7)
 
-<div>
-  <a href="https://www.linkedin.com/in/henrique-poletti-0a089a213/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/hrique_p" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HriqueP&layout=compact)
 
-<br/>
+## Technologies I use
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30"/>
