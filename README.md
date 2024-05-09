@@ -1,4 +1,6 @@
-Hi there, I'm Henrique Poletti 👋   
+Hi there, I'm Henrique Poletti 👋  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HriqueP&show_icons=true&theme=tokyonight)
 
 - 🔭 Currently working on Mobile Apps and Improving my JS Skills
 - 🌱 Currently learning PHP, C#, Python
