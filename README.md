@@ -3,9 +3,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-poletti-0a089a213/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hrique_p)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HriqueP&show_icons=true&bg_color=020617&title_color=ffffff&text_color=94a3b8&icon_color=0284c7)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HriqueP&layout=compact)
+<a href="https://github.com/HriqueP">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HriqueP&show_icons=true&bg_color=020617&title_color=ffffff&text_color=94a3b8&icon_color=0284c7"/>
+</a>
+<a href="https://github.com/HriqueP">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HriqueP&layout=compact"/>
+</a>
 
 ## Technologies I use
 
