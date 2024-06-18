@@ -12,6 +12,8 @@
   </a>
 </div>
 
+<hr/>
+
 <div align='left'>
   <img src='https://github-readme-stats.vercel.app/api?username=HriqueP&show_icons=true&bg_color=020617&title_color=ffffff&text_color=94a3b8&icon_color=0284c7&rank_icon=github'/><br>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HriqueP&layout=compact&hide_progress=true&bg_color=020617&title_color=ffffff&text_color=94a3b8'/>
