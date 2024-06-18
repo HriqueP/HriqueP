@@ -7,7 +7,7 @@
    <a href='https://www.linkedin.com/in/henrique-poletti-0a089a213'>
     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
   </a>
-  <a href='https://www.instagram.com/hrique_p'>
+  <a href='https://www.instagram.com/hrique_p?igsh=ZjcyOWw0bTUxNWpy'>
     <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/>
   </a>
 </div>
