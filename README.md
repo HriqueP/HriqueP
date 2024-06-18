@@ -1,7 +1,7 @@
 ## Hi there, I'm Henrique Poletti 👋
 
 <div align='left'>
-  <a href='mailto.hapoletti@gmail.com'>
+  <a href='mailto:hapoletti@gmail.com'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
   </a>
    <a href='https://www.linkedin.com/in/henrique-poletti-0a089a213'>
