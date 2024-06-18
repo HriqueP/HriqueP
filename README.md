@@ -1,14 +1,25 @@
-### Hi there, I'm Henrique Poletti 👋
+## Hi there, I'm Henrique Poletti 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-poletti-0a089a213/)   
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hrique_p)
+<div align='left'>
+  <a href='mailto.hapoletti@gmail.com'>
+    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
+  </a>
+   <a href='www.linkedin.com/in/henrique-poletti-0a089a213'>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/>
+  </a>
+  <a href='https://www.instagram.com/hrique_p'>
+    <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/>
+  </a>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HriqueP&show_icons=true&bg_color=020617&title_color=ffffff&text_color=94a3b8&icon_color=0284c7)
+<div align='left'>
+  <img src='https://github-readme-stats.vercel.app/api?username=HriqueP&show_icons=true&bg_color=020617&title_color=ffffff&text_color=94a3b8&icon_color=0284c7&rank_icon=github'/><br>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=HriqueP&layout=compact&hide_progress=true&bg_color=020617&title_color=ffffff&text_color=94a3b8'/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HriqueP&layout=compact&hide_progress=true&color=red)
+<hr/>
 
-## Most Used
-
+### Technologies
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"/>
